@@ -20,7 +20,7 @@ class enregistrerJoueursCommand extends ContainerAwareCommand
     private $logs = [];
 
     const NUMERO_CLUB = '550717';
-    const START_SEASON = '2020';
+    const START_SEASON = '2021';
 
 
     protected function configure()
@@ -35,7 +35,7 @@ class enregistrerJoueursCommand extends ContainerAwareCommand
         $now = new \DateTime();
         $output->writeln('<comment>Start : ' . $now->format('d-m-Y G:i:s') . ' ---</comment>');
         
-        $json_data = file_get_contents($this->getContainer()->get('kernel')->getRootDir() . '/Resources/Documents/LicenciesJson/uscl.json');
+        $json_data = file_get_contents($this->getContainer()->get('kernel')->getRootDir() . '/Resources/Documents/LicenciesJson/uscl-'. self::START_SEASON.'.json');
 
         $data = json_decode($json_data, true);
 
