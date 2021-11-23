@@ -3,17 +3,10 @@
 namespace AppBundle\Controller;
 
 
-use AppBundle\Entity\Equipe;
-use AppBundle\Entity\HistoriqueClassement;
-use AppBundle\Entity\Rencontre;
-use AppBundle\Entity\StatsParJournee;
-use AppBundle\Service\Category\CategoryFactory;
 use AppBundle\Service\Scorenco\ScorencoService;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Template;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
-use Symfony\Component\DomCrawler\Crawler;
-use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Request;
 
 class StatsController extends Controller

@@ -96,7 +96,11 @@
         "firstName": "Noah",
         "sex": "Masculin",
         "nationality": "Française",
-        "photo": null,
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-14T20:54:00"
+        },
         "birthday": {
             "date": "2013-10-24T00:00:00",
             "birthPlace": "14100",
@@ -121,8 +125,8 @@
                     "id": 550717,
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
-                "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Incomplète"
+                "registeredLicence": "2021-10-08T00:00:00",
+                "state": "Validée"
             }
         ],
         "contacts": {}
@@ -970,7 +974,7 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-22T17:35:00"
         },
         "birthday": {
@@ -998,7 +1002,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             },
             {
                 "startSeason": "2019-07-01T00:00:00",
@@ -1071,6 +1075,48 @@
                 },
                 "registeredLicence": "2014-10-02T00:00:00",
                 "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 9603732270.0,
+        "gender": "Monsieur",
+        "lastName": "BACHELET",
+        "firstName": "Nathan",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": false,
+            "acceptedAt": "2021-10-25T10:14:00"
+        },
+        "birthday": {
+            "date": "2007-02-15T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "418 rue des portes",
+            "locality": "",
+            "postCode": "27450",
+            "city": "st etienne l allier"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U15 (- 15 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-25T00:00:00",
+                "state": "Incomplète"
             }
         ],
         "contacts": {}
@@ -1390,7 +1436,7 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-22T18:30:00"
         },
         "birthday": {
@@ -1418,7 +1464,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             },
             {
                 "startSeason": "2018-07-01T00:00:00",
@@ -3374,6 +3420,48 @@
         "contacts": {}
     },
     {
+        "id": 9603439534.0,
+        "gender": "Monsieur",
+        "lastName": "BLOT",
+        "firstName": "Alexis",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-11-18T14:14:00"
+        },
+        "birthday": {
+            "date": "2011-05-21T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "5 chemin de la gaudardière",
+            "locality": "",
+            "postCode": "27260",
+            "city": "asnieres"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U11 (- 11 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-11-18T00:00:00",
+                "state": "Validée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
         "id": 2548209846.0,
         "gender": "Monsieur",
         "lastName": "BLOT",
@@ -3476,6 +3564,216 @@
         "contacts": {}
     },
     {
+        "id": 2117417407.0,
+        "gender": "Monsieur",
+        "lastName": "BOCAGE",
+        "firstName": "Loic",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-25T13:48:00"
+        },
+        "birthday": {
+            "date": "1991-01-14T00:00:00",
+            "birthPlace": "27500",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "222 route de la croix blanche",
+            "locality": "",
+            "postCode": "27210",
+            "city": "st maclou"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-25T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2020-07-01T00:00:00",
+                "endSeason": "2021-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2020-10-12T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2020-07-01T00:00:00",
+                "endSeason": "2021-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 548686,
+                    "name": "F.C. INTERCOMMUNAL LE BEL AIR"
+                },
+                "registeredLicence": "2020-07-01T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 548686,
+                    "name": "F.C. INTERCOMMUNAL LE BEL AIR"
+                },
+                "registeredLicence": "2020-01-03T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2018-07-01T00:00:00",
+                "endSeason": "2019-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 500244,
+                    "name": "CERC. A. PONT-AUDEMER"
+                },
+                "registeredLicence": "2018-07-08T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2017-07-01T00:00:00",
+                "endSeason": "2018-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 546504,
+                    "name": "A.S. EPAIGNES"
+                },
+                "registeredLicence": "2017-08-29T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2016-07-01T00:00:00",
+                "endSeason": "2017-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 546504,
+                    "name": "A.S. EPAIGNES"
+                },
+                "registeredLicence": "2017-03-01T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2015-07-01T00:00:00",
+                "endSeason": "2016-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 546504,
+                    "name": "A.S. EPAIGNES"
+                },
+                "registeredLicence": "2015-09-06T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2014-07-01T00:00:00",
+                "endSeason": "2015-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 546504,
+                    "name": "A.S. EPAIGNES"
+                },
+                "registeredLicence": "2014-08-05T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2013-07-01T00:00:00",
+                "endSeason": "2014-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 546504,
+                    "name": "A.S. EPAIGNES"
+                },
+                "registeredLicence": "2013-07-01T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2012-07-01T00:00:00",
+                "endSeason": "2013-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2012-09-14T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2011-07-01T00:00:00",
+                "endSeason": "2012-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2011-12-30T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2009-07-01T00:00:00",
+                "endSeason": "2010-06-30T00:00:00",
+                "subCategory": "Libre / U19 (- 19 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 518082,
+                    "name": "A.C. BEUZEVILLE"
+                },
+                "registeredLicence": "2009-10-29T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2002-07-01T00:00:00",
+                "endSeason": "2003-06-30T00:00:00",
+                "subCategory": "Libre / Benjamin (2)",
+                "league": 7400,
+                "club": {
+                    "id": 546504,
+                    "name": "A.S. EPAIGNES"
+                },
+                "registeredLicence": "2002-06-06T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2001-07-01T00:00:00",
+                "endSeason": "2002-06-30T00:00:00",
+                "subCategory": "Libre / Benjamin (1)",
+                "league": 7400,
+                "club": {
+                    "id": 546504,
+                    "name": "A.S. EPAIGNES"
+                },
+                "registeredLicence": "2001-10-01T00:00:00",
+                "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
         "id": 9603468725.0,
         "gender": "Monsieur",
         "lastName": "BODIN",
@@ -3484,7 +3782,7 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-22T17:26:00"
         },
         "birthday": {
@@ -3512,7 +3810,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             }
         ],
         "contacts": {}
@@ -4334,6 +4632,228 @@
         "contacts": {}
     },
     {
+        "id": 2544119577.0,
+        "gender": "Monsieur",
+        "lastName": "CHENEVARIN",
+        "firstName": "Maxime",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2018-07-09T22:50:00"
+        },
+        "birthday": {
+            "date": "2000-07-19T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "14 bld pierre pasquini",
+            "street": "14 bld pierre pasquini",
+            "locality": "",
+            "postCode": "20220",
+            "city": "l ile rousse"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-11-17T00:00:00",
+                "state": "Non validée"
+            },
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 2700,
+                "club": {
+                    "id": 553960,
+                    "name": "F. C. BALAGNE"
+                },
+                "registeredLicence": "2021-09-07T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2020-07-01T00:00:00",
+                "endSeason": "2021-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 2700,
+                "club": {
+                    "id": 553960,
+                    "name": "F. C. BALAGNE"
+                },
+                "registeredLicence": "2020-09-22T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / Senior U20 (- 20 ans)",
+                "league": 2700,
+                "club": {
+                    "id": 553960,
+                    "name": "F. C. BALAGNE"
+                },
+                "registeredLicence": "2019-09-03T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2018-07-01T00:00:00",
+                "endSeason": "2019-06-30T00:00:00",
+                "subCategory": "Libre / U19 (- 19 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 501800,
+                    "name": "A.S.MANNEVILLE-ST-MARDS-FOURMETO"
+                },
+                "registeredLicence": "2018-07-09T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2017-07-01T00:00:00",
+                "endSeason": "2018-06-30T00:00:00",
+                "subCategory": "Libre / U18 (- 18 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 500244,
+                    "name": "CERC. A. PONT-AUDEMER"
+                },
+                "registeredLicence": "2017-08-15T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2016-07-01T00:00:00",
+                "endSeason": "2017-06-30T00:00:00",
+                "subCategory": "Futsal / U17 (- 17 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2017-02-04T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2016-07-01T00:00:00",
+                "endSeason": "2017-06-30T00:00:00",
+                "subCategory": "Libre / U17 (- 17 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2016-09-03T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2015-07-01T00:00:00",
+                "endSeason": "2016-06-30T00:00:00",
+                "subCategory": "Libre / U16 (- 16 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2015-09-13T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2014-07-01T00:00:00",
+                "endSeason": "2015-06-30T00:00:00",
+                "subCategory": "Libre / U15 (- 15 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2014-10-02T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2013-07-01T00:00:00",
+                "endSeason": "2014-06-30T00:00:00",
+                "subCategory": "Libre / U14 (- 14 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2013-09-13T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2012-07-01T00:00:00",
+                "endSeason": "2013-06-30T00:00:00",
+                "subCategory": "Libre / U13 (- 13 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2012-11-28T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2010-07-01T00:00:00",
+                "endSeason": "2011-06-30T00:00:00",
+                "subCategory": "Libre / U11 (- 11 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2010-11-17T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2008-07-01T00:00:00",
+                "endSeason": "2009-06-30T00:00:00",
+                "subCategory": "Libre / Poussin (1)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2008-07-01T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2007-07-01T00:00:00",
+                "endSeason": "2008-06-30T00:00:00",
+                "subCategory": "Libre / Débutant (3)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2007-07-01T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2006-07-01T00:00:00",
+                "endSeason": "2007-06-30T00:00:00",
+                "subCategory": "Libre / Débutant (2)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2006-09-28T00:00:00",
+                "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
         "id": 2117415005.0,
         "gender": "Monsieur",
         "lastName": "CHENEVARIN",
@@ -5006,6 +5526,114 @@
         "contacts": {}
     },
     {
+        "id": 2548587545.0,
+        "gender": "Monsieur",
+        "lastName": "CLOUET",
+        "firstName": "Lorenzo",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-14T21:29:00"
+        },
+        "birthday": {
+            "date": "2012-12-05T00:00:00",
+            "birthPlace": "27300",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "109 rue de l'ancienne voie romai",
+            "locality": "",
+            "postCode": "27560",
+            "city": "la noe poulain"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U10 (- 10 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-14T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2017-07-01T00:00:00",
+                "endSeason": "2018-06-30T00:00:00",
+                "subCategory": "Libre / U6 (- 6 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 510141,
+                    "name": "AM. S. DU VIEVRE"
+                },
+                "registeredLicence": "2017-12-06T00:00:00",
+                "state": "Validée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 9603029191.0,
+        "gender": "Madame",
+        "lastName": "CLOUET",
+        "firstName": "Melina",
+        "sex": "Féminin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2020-01-25T12:10:00"
+        },
+        "birthday": {
+            "date": "2002-02-14T00:00:00",
+            "birthPlace": "14600",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "21 route de cavicourt",
+            "locality": "",
+            "postCode": "27260",
+            "city": "st pierre de cormeilles"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / Senior U20 F (- 20 ans F)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-11-03T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / U18 F (- 18 ans F)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2020-01-25T00:00:00",
+                "state": "Validée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
         "id": 2546787330.0,
         "gender": "Monsieur",
         "lastName": "COIGNARD",
@@ -5210,7 +5838,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-01T00:00:00",
-                "state": "Incomplète"
+                "state": "Validée"
             },
             {
                 "startSeason": "2020-07-01T00:00:00",
@@ -5228,6 +5856,72 @@
         "contacts": {}
     },
     {
+        "id": 9602856262.0,
+        "gender": "Monsieur",
+        "lastName": "COURSEAUX",
+        "firstName": "Simon",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-04T13:16:00"
+        },
+        "birthday": {
+            "date": "2013-12-12T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "1434 route du brevedent",
+            "locality": "",
+            "postCode": "14130",
+            "city": "bonneville la louvet"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U9 (- 9 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-04T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2020-07-01T00:00:00",
+                "endSeason": "2021-06-30T00:00:00",
+                "subCategory": "Libre / U8 (- 8 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2020-09-08T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / U7 (- 7 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2019-09-26T00:00:00",
+                "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
         "id": 9603545149.0,
         "gender": "Monsieur",
         "lastName": "CREME",
@@ -5236,7 +5930,7 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-16T11:47:00"
         },
         "birthday": {
@@ -5264,7 +5958,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-16T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             }
         ],
         "contacts": {}
@@ -5546,28 +6240,28 @@
         "contacts": {}
     },
     {
-        "id": 9603464894.0,
+        "id": 9603502873.0,
         "gender": "Monsieur",
-        "lastName": "DE HARO GONZALEZ",
-        "firstName": "Raphael",
+        "lastName": "DAVID",
+        "firstName": "Johann",
         "sex": "Masculin",
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
             "accepted": true,
-            "acceptedAt": "2021-09-09T18:14:00"
+            "acceptedAt": "2021-11-02T10:14:00"
         },
         "birthday": {
-            "date": "2013-10-14T00:00:00",
-            "birthPlace": "14100",
+            "date": "2004-12-07T00:00:00",
+            "birthPlace": "76600",
             "birthCountry": "France"
         },
         "address": {
             "supplement": "",
-            "street": "12 lotissement ponchaud",
+            "street": "rue louis gillain",
             "locality": "",
-            "postCode": "27260",
-            "city": "cormeilles"
+            "postCode": "27210",
+            "city": "beuzeville"
         },
         "canReceiveCommercialOffer": false,
         "canPublishContactDetails": false,
@@ -5575,13 +6269,13 @@
             {
                 "startSeason": "2021-07-01T00:00:00",
                 "endSeason": "2022-06-30T00:00:00",
-                "subCategory": "Libre / U9 (- 9 ans)",
+                "subCategory": "Libre / U18 (- 18 ans)",
                 "league": 7400,
                 "club": {
                     "id": 550717,
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
-                "registeredLicence": "2021-09-09T00:00:00",
+                "registeredLicence": "2021-11-02T00:00:00",
                 "state": "Validée"
             }
         ],
@@ -5756,6 +6450,48 @@
                     "name": "E.S. DE ST JEAN DU FALGA"
                 },
                 "registeredLicence": "1999-09-23T00:00:00",
+                "state": "Validée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 9603464894.0,
+        "gender": "Monsieur",
+        "lastName": "DE HARO GONZALEZ",
+        "firstName": "Raphael",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-09-09T18:14:00"
+        },
+        "birthday": {
+            "date": "2013-10-14T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "12 lotissement ponchaud",
+            "locality": "",
+            "postCode": "27260",
+            "city": "cormeilles"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U9 (- 9 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-09-09T00:00:00",
                 "state": "Validée"
             }
         ],
@@ -6963,7 +7699,7 @@
                     "id": 550717,
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
-                "registeredLicence": "2021-09-22T00:00:00",
+                "registeredLicence": "2021-10-25T00:00:00",
                 "state": "Incomplète"
             }
         ],
@@ -7209,8 +7945,8 @@
                     "id": 550717,
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
-                "registeredLicence": "2021-09-23T00:00:00",
-                "state": "Incomplète"
+                "registeredLicence": "2021-10-14T00:00:00",
+                "state": "Validée"
             },
             {
                 "startSeason": "2020-07-01T00:00:00",
@@ -8028,7 +8764,7 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-22T17:23:00"
         },
         "birthday": {
@@ -8056,7 +8792,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             }
         ],
         "contacts": {}
@@ -8518,13 +9254,275 @@
         "contacts": {}
     },
     {
+        "id": 9603762923.0,
+        "gender": "Monsieur",
+        "lastName": "FEZAA",
+        "firstName": "Nahyl",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-11-17T12:00:00"
+        },
+        "birthday": {
+            "date": "2009-08-13T00:00:00",
+            "birthPlace": "76290",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "3 lotissement de l'aubertine",
+            "locality": "",
+            "postCode": "27560",
+            "city": "lieurey"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U13 (- 13 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-11-17T00:00:00",
+                "state": "Validée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 9603683696.0,
+        "gender": "Monsieur",
+        "lastName": "FLEURANT",
+        "firstName": "Alban",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-08T17:40:00"
+        },
+        "birthday": {
+            "date": "2010-10-11T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "1305 route de beuzeville",
+            "locality": "",
+            "postCode": "14130",
+            "city": "bonneville la louvet"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U12 (- 12 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-08T00:00:00",
+                "state": "Validée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 2127484956.0,
+        "gender": "Monsieur",
+        "lastName": "FRANCOISE",
+        "firstName": "Emmanuel",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-11-08T15:52:00"
+        },
+        "birthday": {
+            "date": "1984-12-27T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "16 rue st maclou",
+            "locality": "",
+            "postCode": "27260",
+            "city": "cormeilles"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / Vétéran",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-11-08T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2016-07-01T00:00:00",
+                "endSeason": "2017-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 501800,
+                    "name": "A.S.MANNEVILLE-ST-MARDS-FOURMETO"
+                },
+                "registeredLicence": "2016-08-07T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2015-07-01T00:00:00",
+                "endSeason": "2016-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2015-08-19T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2014-07-01T00:00:00",
+                "endSeason": "2015-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2014-10-28T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2013-07-01T00:00:00",
+                "endSeason": "2014-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2013-08-16T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2012-07-01T00:00:00",
+                "endSeason": "2013-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2012-09-04T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2011-07-01T00:00:00",
+                "endSeason": "2012-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2011-09-07T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2010-07-01T00:00:00",
+                "endSeason": "2011-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2010-07-01T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2009-07-01T00:00:00",
+                "endSeason": "2010-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2009-07-09T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2008-07-01T00:00:00",
+                "endSeason": "2009-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2008-07-01T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2007-07-01T00:00:00",
+                "endSeason": "2008-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2007-08-31T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "1995-07-01T00:00:00",
+                "endSeason": "1996-06-30T00:00:00",
+                "subCategory": "Libre / Benjamin (2)",
+                "league": 7400,
+                "club": {
+                    "id": 501643,
+                    "name": "A.S. CORMEILLES"
+                },
+                "registeredLicence": "1995-10-24T00:00:00",
+                "state": "Validée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
         "id": 9603556458.0,
         "gender": "Monsieur",
         "lastName": "FRUCTUOSO",
         "firstName": "Laurent",
         "sex": "Masculin",
         "nationality": "Française",
-        "photo": null,
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-11T11:53:00"
+        },
         "birthday": {
             "date": "1972-11-10T00:00:00",
             "birthPlace": "27300",
@@ -8549,8 +9547,8 @@
                     "id": 550717,
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
-                "registeredLicence": "2021-09-17T00:00:00",
-                "state": "Incomplète"
+                "registeredLicence": "2021-10-14T00:00:00",
+                "state": "Validée"
             }
         ],
         "contacts": {}
@@ -9620,7 +10618,7 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-22T23:42:00"
         },
         "birthday": {
@@ -9648,7 +10646,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             },
             {
                 "startSeason": "2019-07-01T00:00:00",
@@ -9853,6 +10851,48 @@
                 },
                 "registeredLicence": "2020-09-24T00:00:00",
                 "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 9603556490.0,
+        "gender": "Mademoiselle",
+        "lastName": "GREAUME",
+        "firstName": "Pauline",
+        "sex": "Féminin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-09-30T00:42:00"
+        },
+        "birthday": {
+            "date": "1998-02-14T00:00:00",
+            "birthPlace": "27500",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "91 chemin de la fontaine hanoit",
+            "locality": "",
+            "postCode": "14130",
+            "city": "bonneville la louvet"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / Senior F",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-09-30T00:00:00",
+                "state": "Validée"
             }
         ],
         "contacts": {}
@@ -10328,7 +11368,7 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-22T16:48:00"
         },
         "birthday": {
@@ -10356,7 +11396,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             }
         ],
         "contacts": {}
@@ -11226,7 +12266,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-24T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             },
             {
                 "startSeason": "2021-07-01T00:00:00",
@@ -11810,8 +12850,8 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
-            "acceptedAt": "0001-01-01T00:00:00"
+            "accepted": true,
+            "acceptedAt": "2021-09-28T15:54:00"
         },
         "birthday": {
             "date": "1980-08-23T00:00:00",
@@ -11838,7 +12878,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-24T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             }
         ],
         "contacts": {}
@@ -11852,7 +12892,7 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-22T22:25:00"
         },
         "birthday": {
@@ -11880,7 +12920,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             },
             {
                 "startSeason": "2019-07-01T00:00:00",
@@ -12588,6 +13628,96 @@
         "contacts": {}
     },
     {
+        "id": 2548369374.0,
+        "gender": "Monsieur",
+        "lastName": "LAURET",
+        "firstName": "Come",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-09-29T23:38:00"
+        },
+        "birthday": {
+            "date": "2008-07-31T00:00:00",
+            "birthPlace": "92210",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "4 place de la marne",
+            "locality": "",
+            "postCode": "78380",
+            "city": "bougival"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U14 (- 14 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-09-29T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2020-07-01T00:00:00",
+                "endSeason": "2021-06-30T00:00:00",
+                "subCategory": "Libre / U13 (- 13 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2020-10-22T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / U12 (- 12 ans)",
+                "league": 8000,
+                "club": {
+                    "id": 549943,
+                    "name": "BOUGIVAL FOOTBALL"
+                },
+                "registeredLicence": "2019-10-03T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2018-07-01T00:00:00",
+                "endSeason": "2019-06-30T00:00:00",
+                "subCategory": "Libre / U11 (- 11 ans)",
+                "league": 8000,
+                "club": {
+                    "id": 549943,
+                    "name": "BOUGIVAL FOOTBALL"
+                },
+                "registeredLicence": "2018-10-14T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2017-07-01T00:00:00",
+                "endSeason": "2018-06-30T00:00:00",
+                "subCategory": "Libre / U10 (- 10 ans)",
+                "league": 8000,
+                "club": {
+                    "id": 549943,
+                    "name": "BOUGIVAL FOOTBALL"
+                },
+                "registeredLicence": "2017-10-12T00:00:00",
+                "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
         "id": 2547735194.0,
         "gender": "Monsieur",
         "lastName": "LE SUEUR",
@@ -12741,6 +13871,18 @@
                 "state": "Validée"
             },
             {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / Vétéran",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-17T00:00:00",
+                "state": "Validée"
+            },
+            {
                 "startSeason": "2020-07-01T00:00:00",
                 "endSeason": "2021-06-30T00:00:00",
                 "subCategory": "Dirigeant",
@@ -12762,7 +13904,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2020-09-15T00:00:00",
-                "state": "Validée"
+                "state": "Renouvelée"
             },
             {
                 "startSeason": "2019-07-01T00:00:00",
@@ -12972,6 +14114,144 @@
         "contacts": {}
     },
     {
+        "id": 2547085507.0,
+        "gender": "Monsieur",
+        "lastName": "LE YOUDEC",
+        "firstName": "Lubin",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-09-29T23:38:00"
+        },
+        "birthday": {
+            "date": "2008-09-11T00:00:00",
+            "birthPlace": "60200",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "13 lot du calvaire",
+            "locality": "",
+            "postCode": "27260",
+            "city": "la chapelle bayvel"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U14 (- 14 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-09-29T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2020-07-01T00:00:00",
+                "endSeason": "2021-06-30T00:00:00",
+                "subCategory": "Libre / U13 (- 13 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2020-09-30T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / U12 (- 12 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2019-11-07T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2018-07-01T00:00:00",
+                "endSeason": "2019-06-30T00:00:00",
+                "subCategory": "Libre / U11 (- 11 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2018-09-17T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2017-07-01T00:00:00",
+                "endSeason": "2018-06-30T00:00:00",
+                "subCategory": "Libre / U10 (- 10 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2017-09-21T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2016-07-01T00:00:00",
+                "endSeason": "2017-06-30T00:00:00",
+                "subCategory": "Libre / U9 (- 9 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2016-10-01T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2015-07-01T00:00:00",
+                "endSeason": "2016-06-30T00:00:00",
+                "subCategory": "Libre / U8 (- 8 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2015-11-19T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2014-07-01T00:00:00",
+                "endSeason": "2015-06-30T00:00:00",
+                "subCategory": "Libre / U7 (- 7 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2014-11-26T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2013-07-01T00:00:00",
+                "endSeason": "2014-06-30T00:00:00",
+                "subCategory": "Libre / U6 (- 6 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2013-11-17T00:00:00",
+                "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
         "id": 9603282497.0,
         "gender": "Monsieur",
         "lastName": "LEBELLOIS",
@@ -13062,19 +14342,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-20T00:00:00",
-                "state": "Non validée"
-            },
-            {
-                "startSeason": "2021-07-01T00:00:00",
-                "endSeason": "2022-06-30T00:00:00",
-                "subCategory": "Libre / U15 (- 15 ans)",
-                "league": 7400,
-                "club": {
-                    "id": 546504,
-                    "name": "A.S. EPAIGNES"
-                },
-                "registeredLicence": "2021-09-14T00:00:00",
-                "state": "N / M / L"
+                "state": "Validée"
             },
             {
                 "startSeason": "2021-07-01T00:00:00",
@@ -13098,7 +14366,7 @@
                     "name": "A.S. EPAIGNES"
                 },
                 "registeredLicence": "2020-09-05T00:00:00",
-                "state": "Renouvelée"
+                "state": "Mutée"
             },
             {
                 "startSeason": "2019-07-01T00:00:00",
@@ -13338,7 +14606,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             },
             {
                 "startSeason": "2019-07-01T00:00:00",
@@ -14010,6 +15278,108 @@
         "contacts": {}
     },
     {
+        "id": 2548206833.0,
+        "gender": "Monsieur",
+        "lastName": "LECOCQ BRUNEAU",
+        "firstName": "Maxence",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2020-09-07T08:56:00"
+        },
+        "birthday": {
+            "date": "2011-10-16T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "154 passagr picot",
+            "locality": "",
+            "postCode": "27560",
+            "city": "lieurey"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U11 (- 11 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-09-09T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2020-07-01T00:00:00",
+                "endSeason": "2021-06-30T00:00:00",
+                "subCategory": "Libre / U10 (- 10 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2020-09-07T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / U9 (- 9 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2019-11-06T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2018-07-01T00:00:00",
+                "endSeason": "2019-06-30T00:00:00",
+                "subCategory": "Libre / U8 (- 8 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2018-09-24T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2017-07-01T00:00:00",
+                "endSeason": "2018-06-30T00:00:00",
+                "subCategory": "Libre / U7 (- 7 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2017-09-28T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2016-07-01T00:00:00",
+                "endSeason": "2017-06-30T00:00:00",
+                "subCategory": "Libre / U6 (- 6 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2017-01-05T00:00:00",
+                "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
         "id": 9603463385.0,
         "gender": "Monsieur",
         "lastName": "LECOINTRE",
@@ -14232,7 +15602,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             },
             {
                 "startSeason": "2021-07-01T00:00:00",
@@ -15720,6 +17090,138 @@
         "contacts": {}
     },
     {
+        "id": 9603714501.0,
+        "gender": "Monsieur",
+        "lastName": "LEMARIEY",
+        "firstName": "Enzo",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-17T20:55:00"
+        },
+        "birthday": {
+            "date": "2013-12-06T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "3 place de l'église",
+            "locality": "",
+            "postCode": "27260",
+            "city": "fresne cauverville"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U9 (- 9 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-17T00:00:00",
+                "state": "Validée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 2548182596.0,
+        "gender": "Monsieur",
+        "lastName": "LEMESLE",
+        "firstName": "Killyan",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2020-09-24T21:16:00"
+        },
+        "birthday": {
+            "date": "2011-03-08T00:00:00",
+            "birthPlace": "14202",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "618 rue des pelcats",
+            "locality": "epaignes",
+            "postCode": "27260",
+            "city": "la chapelle bayvel"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U11 (- 11 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-14T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2020-07-01T00:00:00",
+                "endSeason": "2021-06-30T00:00:00",
+                "subCategory": "Libre / U10 (- 10 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 501800,
+                    "name": "A.S.MANNEVILLE-ST-MARDS-FOURMETO"
+                },
+                "registeredLicence": "2020-09-24T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / U9 (- 9 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 501800,
+                    "name": "A.S.MANNEVILLE-ST-MARDS-FOURMETO"
+                },
+                "registeredLicence": "2019-08-30T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2018-07-01T00:00:00",
+                "endSeason": "2019-06-30T00:00:00",
+                "subCategory": "Libre / U8 (- 8 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 501800,
+                    "name": "A.S.MANNEVILLE-ST-MARDS-FOURMETO"
+                },
+                "registeredLicence": "2018-07-19T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2017-07-01T00:00:00",
+                "endSeason": "2018-06-30T00:00:00",
+                "subCategory": "Libre / U7 (- 7 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 501800,
+                    "name": "A.S.MANNEVILLE-ST-MARDS-FOURMETO"
+                },
+                "registeredLicence": "2017-11-21T00:00:00",
+                "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
         "id": 2199741564.0,
         "gender": "Monsieur",
         "lastName": "LEMOINE",
@@ -16189,7 +17691,7 @@
         },
         "birthday": {
             "date": "1968-12-08T00:00:00",
-            "birthPlace": "27500",
+            "birthPlace": "",
             "birthCountry": "France"
         },
         "address": {
@@ -17150,7 +18652,7 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-22T17:54:00"
         },
         "birthday": {
@@ -17178,7 +18680,85 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 9603023191.0,
+        "gender": "Monsieur",
+        "lastName": "LEROUX",
+        "firstName": "Thomas",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-09-22T17:50:00"
+        },
+        "birthday": {
+            "date": "2007-04-24T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "5 route départementale 810",
+            "locality": "",
+            "postCode": "27560",
+            "city": "la noe poulain"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U15 (- 15 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-04T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U15 (- 15 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 510141,
+                    "name": "AM. S. DU VIEVRE"
+                },
+                "registeredLicence": "2021-09-22T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2020-07-01T00:00:00",
+                "endSeason": "2021-06-30T00:00:00",
+                "subCategory": "Libre / U14 (- 14 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 546504,
+                    "name": "A.S. EPAIGNES"
+                },
+                "registeredLicence": "2020-09-20T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / U13 (- 13 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 510141,
+                    "name": "AM. S. DU VIEVRE"
+                },
+                "registeredLicence": "2020-01-15T00:00:00",
+                "state": "Mutée"
             }
         ],
         "contacts": {}
@@ -17365,6 +18945,84 @@
                 },
                 "registeredLicence": "2008-09-04T00:00:00",
                 "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 2547359528.0,
+        "gender": "Monsieur",
+        "lastName": "LESIEUR",
+        "firstName": "Mathieu",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-18T11:42:00"
+        },
+        "birthday": {
+            "date": "2005-06-12T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "8 place du general de gaulle",
+            "locality": "",
+            "postCode": "27260",
+            "city": "cormeilles"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U17 (- 17 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-18T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2018-07-01T00:00:00",
+                "endSeason": "2019-06-30T00:00:00",
+                "subCategory": "Libre / U14 (- 14 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2018-09-16T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2017-07-01T00:00:00",
+                "endSeason": "2018-06-30T00:00:00",
+                "subCategory": "Libre / U13 (- 13 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2017-09-27T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2014-07-01T00:00:00",
+                "endSeason": "2015-06-30T00:00:00",
+                "subCategory": "Libre / U10 (- 10 ans)",
+                "league": 1500,
+                "club": {
+                    "id": 522837,
+                    "name": "U.S. PONT L'EVEQUE"
+                },
+                "registeredLicence": "2014-09-25T00:00:00",
+                "state": "Validée"
             }
         ],
         "contacts": {}
@@ -17672,7 +19330,7 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-22T16:25:00"
         },
         "birthday": {
@@ -17700,7 +19358,73 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2018-07-01T00:00:00",
+                "endSeason": "2019-06-30T00:00:00",
+                "subCategory": "Libre / U8 (- 8 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2018-09-06T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2017-07-01T00:00:00",
+                "endSeason": "2018-06-30T00:00:00",
+                "subCategory": "Libre / U7 (- 7 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2017-10-26T00:00:00",
+                "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 2548379712.0,
+        "gender": "Monsieur",
+        "lastName": "LIOUST DIT LAFLEUR",
+        "firstName": "Gabriel",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-09-22T16:25:00"
+        },
+        "birthday": {
+            "date": "2011-08-05T00:00:00",
+            "birthPlace": "14113",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "8 rue de l'abbaye",
+            "locality": "",
+            "postCode": "27260",
+            "city": "cormeilles"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U11 (- 11 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-09-22T00:00:00",
+                "state": "Validée"
             },
             {
                 "startSeason": "2018-07-01T00:00:00",
@@ -18614,7 +20338,7 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-16T11:37:00"
         },
         "birthday": {
@@ -18642,7 +20366,97 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-16T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 2547442305.0,
+        "gender": "Monsieur",
+        "lastName": "MARIE",
+        "firstName": "Samuel",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-09-30T23:13:00"
+        },
+        "birthday": {
+            "date": "2006-10-16T00:00:00",
+            "birthPlace": "76700",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "387 impasse des simons",
+            "locality": "",
+            "postCode": "27260",
+            "city": "epaignes"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U16 (- 16 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-09-30T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2020-07-01T00:00:00",
+                "endSeason": "2021-06-30T00:00:00",
+                "subCategory": "Libre / U15 (- 15 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2020-09-16T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / U14 (- 14 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2019-08-07T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2018-07-01T00:00:00",
+                "endSeason": "2019-06-30T00:00:00",
+                "subCategory": "Libre / U13 (- 13 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2018-10-07T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2017-07-01T00:00:00",
+                "endSeason": "2018-06-30T00:00:00",
+                "subCategory": "Libre / U12 (- 12 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2017-10-19T00:00:00",
+                "state": "Renouvelée"
             }
         ],
         "contacts": {}
@@ -18709,6 +20523,84 @@
                 },
                 "registeredLicence": "2018-10-03T00:00:00",
                 "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 2546484371.0,
+        "gender": "Monsieur",
+        "lastName": "MAUREY",
+        "firstName": "Matheo",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-25T13:32:00"
+        },
+        "birthday": {
+            "date": "2006-10-03T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "213 impasse la cauviniere",
+            "locality": "",
+            "postCode": "27560",
+            "city": "lieurey"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U16 (- 16 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-25T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2020-07-01T00:00:00",
+                "endSeason": "2021-06-30T00:00:00",
+                "subCategory": "Libre / U15 (- 15 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2020-09-23T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / U14 (- 14 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2019-09-18T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2011-07-01T00:00:00",
+                "endSeason": "2012-06-30T00:00:00",
+                "subCategory": "Libre / U6 (- 6 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2011-12-30T00:00:00",
+                "state": "Validée"
             }
         ],
         "contacts": {}
@@ -18799,72 +20691,6 @@
                 },
                 "registeredLicence": "1995-10-05T00:00:00",
                 "state": "Validée"
-            }
-        ],
-        "contacts": {}
-    },
-    {
-        "id": 9602794219.0,
-        "gender": "Monsieur",
-        "lastName": "MAUVIERE",
-        "firstName": "Pacome",
-        "sex": "Masculin",
-        "nationality": "Française",
-        "photo": {
-            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": true,
-            "acceptedAt": "2021-09-22T10:45:00"
-        },
-        "birthday": {
-            "date": "2013-06-03T00:00:00",
-            "birthPlace": "14100",
-            "birthCountry": "France"
-        },
-        "address": {
-            "supplement": "",
-            "street": "14 lotissement ponchaud",
-            "locality": "",
-            "postCode": "27260",
-            "city": "cormeilles"
-        },
-        "canReceiveCommercialOffer": false,
-        "canPublishContactDetails": false,
-        "permits": [
-            {
-                "startSeason": "2021-07-01T00:00:00",
-                "endSeason": "2022-06-30T00:00:00",
-                "subCategory": "Libre / U9 (- 9 ans)",
-                "league": 7400,
-                "club": {
-                    "id": 550717,
-                    "name": "U.S. CORMEILLES - LIEUREY"
-                },
-                "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Validée"
-            },
-            {
-                "startSeason": "2020-07-01T00:00:00",
-                "endSeason": "2021-06-30T00:00:00",
-                "subCategory": "Libre / U8 (- 8 ans)",
-                "league": 7400,
-                "club": {
-                    "id": 550717,
-                    "name": "U.S. CORMEILLES - LIEUREY"
-                },
-                "registeredLicence": "2020-10-06T00:00:00",
-                "state": "Renouvelée"
-            },
-            {
-                "startSeason": "2019-07-01T00:00:00",
-                "endSeason": "2020-06-30T00:00:00",
-                "subCategory": "Libre / U7 (- 7 ans)",
-                "league": 7400,
-                "club": {
-                    "id": 550717,
-                    "name": "U.S. CORMEILLES - LIEUREY"
-                },
-                "registeredLicence": "2019-09-25T00:00:00",
-                "state": "Renouvelée"
             }
         ],
         "contacts": {}
@@ -18967,6 +20793,210 @@
                 },
                 "registeredLicence": "2016-09-17T00:00:00",
                 "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 9603657569.0,
+        "gender": "Monsieur",
+        "lastName": "MAZURIER",
+        "firstName": "Thao",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-04T13:09:00"
+        },
+        "birthday": {
+            "date": "2012-03-02T00:00:00",
+            "birthPlace": "76000",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "31 rue des mierres",
+            "locality": "",
+            "postCode": "27560",
+            "city": "la noe poulain"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U10 (- 10 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-04T00:00:00",
+                "state": "Validée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 9602396551.0,
+        "gender": "Monsieur",
+        "lastName": "MECHERI",
+        "firstName": "Enzo",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-14T21:25:00"
+        },
+        "birthday": {
+            "date": "2009-06-29T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "109 chemin du chene l abbe",
+            "locality": "",
+            "postCode": "27260",
+            "city": "epaignes"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U13 (- 13 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-14T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / U11 (- 11 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 546504,
+                    "name": "A.S. EPAIGNES"
+                },
+                "registeredLicence": "2019-09-17T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2018-07-01T00:00:00",
+                "endSeason": "2019-06-30T00:00:00",
+                "subCategory": "Libre / U10 (- 10 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 546504,
+                    "name": "A.S. EPAIGNES"
+                },
+                "registeredLicence": "2018-10-03T00:00:00",
+                "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 9603683608.0,
+        "gender": "Monsieur",
+        "lastName": "MICHEL",
+        "firstName": "Timothe",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-08T17:42:00"
+        },
+        "birthday": {
+            "date": "2014-02-15T00:00:00",
+            "birthPlace": "14600",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "40 lot les 9 chêes",
+            "locality": "",
+            "postCode": "27560",
+            "city": "lieurey"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U8 (- 8 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-08T00:00:00",
+                "state": "Validée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 9602823552.0,
+        "gender": "Monsieur",
+        "lastName": "MIGNE",
+        "firstName": "Raphael",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-08T17:42:00"
+        },
+        "birthday": {
+            "date": "2012-03-13T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "19 avenue jules paysant",
+            "locality": "",
+            "postCode": "27260",
+            "city": "cormeilles"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U10 (- 10 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-08T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / U8 (- 8 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2019-09-19T00:00:00",
+                "state": "Validée"
             }
         ],
         "contacts": {}
@@ -19788,6 +21818,96 @@
         "contacts": {}
     },
     {
+        "id": 2548486123.0,
+        "gender": "Monsieur",
+        "lastName": "OUSSAID HAYMEL",
+        "firstName": "Mathys",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-11-16T11:01:00"
+        },
+        "birthday": {
+            "date": "2009-07-24T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "chemin de la petite forêt",
+            "locality": "",
+            "postCode": "14130",
+            "city": "le faulq"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U13 (- 13 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-11-16T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2020-07-01T00:00:00",
+                "endSeason": "2021-06-30T00:00:00",
+                "subCategory": "Libre / U12 (- 12 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2020-10-07T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / U11 (- 11 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2019-09-08T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2018-07-01T00:00:00",
+                "endSeason": "2019-06-30T00:00:00",
+                "subCategory": "Libre / U10 (- 10 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2018-09-15T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2017-07-01T00:00:00",
+                "endSeason": "2018-06-30T00:00:00",
+                "subCategory": "Libre / U9 (- 9 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2017-11-23T00:00:00",
+                "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
         "id": 2127542369.0,
         "gender": "Monsieur",
         "lastName": "PATEY",
@@ -20012,11 +22132,11 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-22T22:55:00"
         },
         "birthday": {
-            "date": "2011-04-15T00:00:00",
+            "date": "2016-03-28T00:00:00",
             "birthPlace": "14100",
             "birthCountry": "France"
         },
@@ -20033,14 +22153,14 @@
             {
                 "startSeason": "2021-07-01T00:00:00",
                 "endSeason": "2022-06-30T00:00:00",
-                "subCategory": "Libre / U11 (- 11 ans)",
+                "subCategory": "Libre / U6 (- 6 ans)",
                 "league": 7400,
                 "club": {
                     "id": 550717,
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             }
         ],
         "contacts": {}
@@ -21648,6 +23768,84 @@
         "contacts": {}
     },
     {
+        "id": 9602531311.0,
+        "gender": "Monsieur",
+        "lastName": "PIDOUX",
+        "firstName": "Matys",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2020-09-29T12:51:00"
+        },
+        "birthday": {
+            "date": "2011-10-08T00:00:00",
+            "birthPlace": "14113",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "60 chemin des sablons",
+            "locality": "",
+            "postCode": "14130",
+            "city": "bonneville la louvet"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U11 (- 11 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-09-17T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2020-07-01T00:00:00",
+                "endSeason": "2021-06-30T00:00:00",
+                "subCategory": "Libre / U10 (- 10 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2020-09-24T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / U9 (- 9 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2019-09-24T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2018-07-01T00:00:00",
+                "endSeason": "2019-06-30T00:00:00",
+                "subCategory": "Libre / U8 (- 8 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2018-10-29T00:00:00",
+                "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
         "id": 2547889245.0,
         "gender": "Monsieur",
         "lastName": "PIMONT",
@@ -22068,7 +24266,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-23T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             },
             {
                 "startSeason": "2021-07-01T00:00:00",
@@ -22464,6 +24662,204 @@
         "contacts": {}
     },
     {
+        "id": 2544029705.0,
+        "gender": "Monsieur",
+        "lastName": "QUESNEY",
+        "firstName": "Alexis",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2018-06-18T19:03:00"
+        },
+        "birthday": {
+            "date": "2000-10-27T00:00:00",
+            "birthPlace": "27500",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "732 rue du castel",
+            "locality": "",
+            "postCode": "27560",
+            "city": "lieurey"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / Senior",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-14T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / Senior U20 (- 20 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2019-07-01T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2018-07-01T00:00:00",
+                "endSeason": "2019-06-30T00:00:00",
+                "subCategory": "Libre / U19 (- 19 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2018-07-01T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2017-07-01T00:00:00",
+                "endSeason": "2018-06-30T00:00:00",
+                "subCategory": "Libre / U18 (- 18 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2017-08-29T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2016-07-01T00:00:00",
+                "endSeason": "2017-06-30T00:00:00",
+                "subCategory": "Libre / U17 (- 17 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2016-09-10T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2014-07-01T00:00:00",
+                "endSeason": "2015-06-30T00:00:00",
+                "subCategory": "Libre / U15 (- 15 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2014-10-06T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2013-07-01T00:00:00",
+                "endSeason": "2014-06-30T00:00:00",
+                "subCategory": "Libre / U14 (- 14 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 510141,
+                    "name": "AM. S. DU VIEVRE"
+                },
+                "registeredLicence": "2013-09-04T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2012-07-01T00:00:00",
+                "endSeason": "2013-06-30T00:00:00",
+                "subCategory": "Libre / U13 (- 13 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 510141,
+                    "name": "AM. S. DU VIEVRE"
+                },
+                "registeredLicence": "2012-09-05T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2011-07-01T00:00:00",
+                "endSeason": "2012-06-30T00:00:00",
+                "subCategory": "Libre / U12 (- 12 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 510141,
+                    "name": "AM. S. DU VIEVRE"
+                },
+                "registeredLicence": "2011-08-06T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2010-07-01T00:00:00",
+                "endSeason": "2011-06-30T00:00:00",
+                "subCategory": "Libre / U11 (- 11 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 510141,
+                    "name": "AM. S. DU VIEVRE"
+                },
+                "registeredLicence": "2010-09-15T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2009-07-01T00:00:00",
+                "endSeason": "2010-06-30T00:00:00",
+                "subCategory": "Libre / U10 (- 10 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 510141,
+                    "name": "AM. S. DU VIEVRE"
+                },
+                "registeredLicence": "2009-09-17T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2008-07-01T00:00:00",
+                "endSeason": "2009-06-30T00:00:00",
+                "subCategory": "Libre / Poussin (1)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2008-07-01T00:00:00",
+                "state": "Mutée"
+            },
+            {
+                "startSeason": "2007-07-01T00:00:00",
+                "endSeason": "2008-06-30T00:00:00",
+                "subCategory": "Libre / Débutant (3)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2007-07-01T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2006-07-01T00:00:00",
+                "endSeason": "2007-06-30T00:00:00",
+                "subCategory": "Libre / Débutant (2)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2006-09-14T00:00:00",
+                "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
         "id": 2547671678.0,
         "gender": "Madame",
         "lastName": "QUESNEY",
@@ -22472,7 +24868,7 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-24T10:21:00"
         },
         "birthday": {
@@ -22500,7 +24896,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-24T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             },
             {
                 "startSeason": "2018-07-01T00:00:00",
@@ -22794,6 +25190,48 @@
         "contacts": {}
     },
     {
+        "id": 9603707714.0,
+        "gender": "Monsieur",
+        "lastName": "ROELENS",
+        "firstName": "Dorian",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-14T21:19:00"
+        },
+        "birthday": {
+            "date": "2014-05-14T00:00:00",
+            "birthPlace": "76000",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "1497 route de la haute voie",
+            "locality": "",
+            "postCode": "27500",
+            "city": "campigny"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U8 (- 8 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-14T00:00:00",
+                "state": "Validée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
         "id": 2546357525.0,
         "gender": "Monsieur",
         "lastName": "ROUSSEL",
@@ -22939,6 +25377,60 @@
                 },
                 "registeredLicence": "2011-10-21T00:00:00",
                 "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 2548450116.0,
+        "gender": "Monsieur",
+        "lastName": "ROVEYAZ",
+        "firstName": "Sohan",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-10-11T09:49:00"
+        },
+        "birthday": {
+            "date": "2011-03-11T00:00:00",
+            "birthPlace": "14600",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "impasse le acraouge",
+            "locality": "",
+            "postCode": "27260",
+            "city": "epaignes"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U11 (- 11 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-10-11T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2017-07-01T00:00:00",
+                "endSeason": "2018-06-30T00:00:00",
+                "subCategory": "Libre / U7 (- 7 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 563862,
+                    "name": "US VILLERVILLAISE"
+                },
+                "registeredLicence": "2017-09-27T00:00:00",
+                "state": "Départ"
             }
         ],
         "contacts": {}
@@ -23312,7 +25804,7 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-22T16:07:00"
         },
         "birthday": {
@@ -23340,7 +25832,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             }
         ],
         "contacts": {}
@@ -25352,7 +27844,7 @@
         "nationality": "Française",
         "photo": {
             "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
-            "accepted": false,
+            "accepted": true,
             "acceptedAt": "2021-09-22T16:48:00"
         },
         "birthday": {
@@ -25380,7 +27872,7 @@
                     "name": "U.S. CORMEILLES - LIEUREY"
                 },
                 "registeredLicence": "2021-09-22T00:00:00",
-                "state": "Non validée"
+                "state": "Validée"
             },
             {
                 "startSeason": "2019-07-01T00:00:00",
@@ -25903,6 +28395,162 @@
                 },
                 "registeredLicence": "2001-09-20T00:00:00",
                 "state": "Renouvelée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 9603468434.0,
+        "gender": "Monsieur",
+        "lastName": "VIAUD",
+        "firstName": "Antonin",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-09-01T16:01:00"
+        },
+        "birthday": {
+            "date": "2012-06-16T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "",
+            "street": "48 rue roux",
+            "locality": "",
+            "postCode": "27560",
+            "city": "la noe poulain"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U10 (- 10 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-09-01T00:00:00",
+                "state": "Validée"
+            }
+        ],
+        "contacts": {}
+    },
+    {
+        "id": 2546776697.0,
+        "gender": "Monsieur",
+        "lastName": "VIQUESNEL",
+        "firstName": "Thomas",
+        "sex": "Masculin",
+        "nationality": "Française",
+        "photo": {
+            "link": "https://footclubs.fff.fr/f2000/img/vide.gif",
+            "accepted": true,
+            "acceptedAt": "2021-09-27T17:38:00"
+        },
+        "birthday": {
+            "date": "2007-08-09T00:00:00",
+            "birthPlace": "14100",
+            "birthCountry": "France"
+        },
+        "address": {
+            "supplement": "23 chemin de la beuzerie",
+            "street": "23 chemin de la beuzerie",
+            "locality": "",
+            "postCode": "27260",
+            "city": "asnieres"
+        },
+        "canReceiveCommercialOffer": false,
+        "canPublishContactDetails": false,
+        "permits": [
+            {
+                "startSeason": "2021-07-01T00:00:00",
+                "endSeason": "2022-06-30T00:00:00",
+                "subCategory": "Libre / U15 (- 15 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2021-09-27T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2020-07-01T00:00:00",
+                "endSeason": "2021-06-30T00:00:00",
+                "subCategory": "Libre / U14 (- 14 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2020-09-22T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2019-07-01T00:00:00",
+                "endSeason": "2020-06-30T00:00:00",
+                "subCategory": "Libre / U13 (- 13 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2019-08-07T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2018-07-01T00:00:00",
+                "endSeason": "2019-06-30T00:00:00",
+                "subCategory": "Libre / U12 (- 12 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2018-09-15T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2017-07-01T00:00:00",
+                "endSeason": "2018-06-30T00:00:00",
+                "subCategory": "Libre / U11 (- 11 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2017-11-30T00:00:00",
+                "state": "Renouvelée"
+            },
+            {
+                "startSeason": "2014-07-01T00:00:00",
+                "endSeason": "2015-06-30T00:00:00",
+                "subCategory": "Libre / U8 (- 8 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2015-02-01T00:00:00",
+                "state": "Validée"
+            },
+            {
+                "startSeason": "2012-07-01T00:00:00",
+                "endSeason": "2013-06-30T00:00:00",
+                "subCategory": "Libre / U6 (- 6 ans)",
+                "league": 7400,
+                "club": {
+                    "id": 550717,
+                    "name": "U.S. CORMEILLES - LIEUREY"
+                },
+                "registeredLicence": "2012-11-01T00:00:00",
+                "state": "Validée"
             }
         ],
         "contacts": {}
