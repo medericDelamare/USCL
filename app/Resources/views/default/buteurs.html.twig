@@ -18,10 +18,10 @@
             <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-veterans" role="tab"
                aria-controls="pills-veterans" aria-selected="false">Vétérans</a>
         </li>
-{#        <li class="nav-item">
+        <li class="nav-item">
             <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-seniorsF" role="tab"
                aria-controls="pills-seniorsF" aria-selected="false">Seniors F</a>
-        </li>#}
+        </li>
         <li class="nav-item">
             <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-U18" role="tab"
                aria-controls="pills-U18" aria-selected="false">U18</a>
@@ -40,6 +40,7 @@
             <div class="tab-content col-12" id="pills-tabContent">
                 {% include 'template/template-classement-buteurs.html.twig' with {id:"pills-seniors", title: "Buteurs Seniors", buteurs: seniors } %}
                 {% include 'template/template-classement-buteurs.html.twig' with {id:"pills-veterans", title: "Buteurs Veterans", buteurs: veterans } %}
+                {% include 'template/template-classement-buteurs.html.twig' with {id:"pills-seniorsF", title: "Buteurs Veterans", buteurs: seniorsF } %}
                 {% include 'template/template-classement-buteurs.html.twig' with {id:"pills-U18", title: "Buteurs U18", buteurs: U18 } %}
                 {% include 'template/template-classement-buteurs.html.twig' with {id:"pills-U15", title: "Buteurs U15", buteurs: U15 } %}
                 {% include 'template/template-classement-buteurs.html.twig' with {id:"pills-U13", title: "Buteurs U13", buteurs: U13 } %}
