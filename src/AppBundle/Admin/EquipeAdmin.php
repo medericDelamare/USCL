@@ -22,6 +22,7 @@ class EquipeAdmin extends AbstractAdmin
                 'choices' => [
                     'Equipe A' => 'seniorA',
                     'Equipe B' => 'seniorB',
+                    'Fémninines' => 'seniorF',
                     'U18' => 'U18',
                     'U15' => 'U15',
                     'U13 A' => 'U13A',
